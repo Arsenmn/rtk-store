@@ -9,4 +9,3 @@
 - Типизации с TypeScript.
    
 Мой ТГ: https://t.me/yergaliarsen 
-
